@@ -1,0 +1,17 @@
+    .topimg{
+    display: flex;
+    margin-right: 30px;
+    padding: 30px;
+    margin-left: 10px;
+    
+    }
+    .imgpad{
+        padding: 5px;
+        margin-top: 20px;
+    }
+    .fieldset{
+        background-image: url("marqueBackground.webp");
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-top: 20px;
+    }

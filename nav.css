@@ -1,0 +1,60 @@
+b html {
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(30, 158, 209);
+    height: 50px;
+    width: 100%;
+    position: fixed;
+}
+
+nav ul {
+    width: 25%;
+    margin-right: 250px;
+    display: flex;
+    justify-content: space;
+    align-items: center;
+    list-style: none;
+}
+
+.hover{
+   font-size: larger;
+   color: white;
+   padding: 25px;
+}
+
+nav img {
+    width: 130px;
+    margin-left: 80px;
+    padding: 6px;
+}
+.more{
+    background-color: rgb(30, 158, 209); ;
+}
+
+
+
+.textfield{
+    margin-top: 10px;
+    width: auto;
+    margin-bottom: 10px;
+}
+.login{
+    color: white;
+    margin-top: 15px;
+    font-weight: bold;
+    margin-left: 50px;
+}
+a {
+    text-decoration: none;
+    color: black;
+
+}
